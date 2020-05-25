@@ -2,13 +2,12 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+#### Pamela
 
 <br>
 
-{% include 02-image.md %}
+![Totally random wallpaper](http://getwallpapers.com/wallpaper/full/f/5/1/1512637-beautiful-guardian-angels-wallpaper-2560x1600.jpg)
 
 <br>
 
-{% include 03-links.md %}
-
+[Contact me here](https://github.com/pamelaherself)
