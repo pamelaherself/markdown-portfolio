@@ -2,20 +2,22 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+Pamela
 
 <br>
 
-{% include 02-image.md %}
+![Amber 01](https://patrickguedj.com/update_1_1/series_2019/10_madly_amber_anderson_5_pics/madly_amber_anderson_2.jpg)
 
 <br>
 
-{% include 03-links.md %}
+[Sample Link](theuselessweb.com)
 
 <br>
 
-{% include 04-lists.md %}
-
+1. Option A
+2. Option B
+   1. Option B01
+   2. Option B02
 <br>
 
-{% include 05-emphasis.md %}
+**Emphasis**
